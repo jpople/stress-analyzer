@@ -1,6 +1,6 @@
 import { ReactNode, useState } from 'react';
 import './App.css'
-import { Box, ChakraProvider, Checkbox, Code, Container, HStack, Text, Textarea, VStack } from '@chakra-ui/react'
+import { ChakraProvider, Checkbox, Code, Container, HStack, Text, Textarea, VStack } from '@chakra-ui/react'
 
 import dictJson from './assets/dict.json';
 import { MinusIcon, TriangleDownIcon, TriangleUpIcon, WarningIcon } from '@chakra-ui/icons';
